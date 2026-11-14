@@ -1,2 +1,5 @@
 # NetMon-LTM
-Monitor de red simple para Android con busybox
+
+Monitor de conexiones y servicios para terminales Android con busybox.
+
+## Uso
